@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ty Phan\Desktop\Projects\guessTheNumber\Source.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ty Phan\Desktop\Projects\guessTheNumber\Source.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ty Phan\Desktop\Projects\guessTheNumber\Source.cpp(82,22): warning C4018: '<': signed/unsigned mismatch
+  guessTheNumber.vcxproj -> C:\Users\Ty Phan\Desktop\Projects\guessTheNumber\Debug\guessTheNumber.exe
